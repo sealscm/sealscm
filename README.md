@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi everyone
+
+This is just a little about me so you can learn some stuff about me!
+
+I am currently studying Computing with a concentration in IT at ETSU.
+This Spring 2022 semester will be my 4th semester here at ETSU.
+
+A little more about me personally is that I like to play video games a lot, so if I'm not working on any assignments or reading books for class I'm usually doing that...
+
+
 
 <!--
 **sealscm/sealscm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

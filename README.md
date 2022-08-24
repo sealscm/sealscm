@@ -3,7 +3,7 @@
 This is just a little about me so you can learn some stuff about me!
 
 I am currently studying Computing with a concentration in IT at ETSU.
-This Spring 2022 semester will be my 4th semester here at ETSU.
+This Fall 2022 semester will be my 3rd year here at ETSU.
 
 A little more about me personally is that I like to play video games a lot, so if I'm not working on any assignments or reading books for class I'm usually doing that.
 
